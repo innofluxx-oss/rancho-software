@@ -1,0 +1,1 @@
+Esse código é referente ao projeto que tem como objetivo o gerenciamento do rancho dos oliveiras, incluindo atividades gerais realizadas pela empresa.
